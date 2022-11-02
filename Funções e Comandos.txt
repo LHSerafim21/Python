@@ -1,0 +1,4 @@
+Funções Python
+
+print = Escrever instrução
+input = Ler instrução
