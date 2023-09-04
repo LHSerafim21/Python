@@ -1,0 +1,10 @@
+O programa foi criado em Python e precisara das tais instalações para a compilação
+
+Para o exemplo, vou usar no arquivo txt a chave secreta "3". Isso significa que a técnica 
+de substituição (Cifra de César) deslocará cada letra do texto original três posições 
+para a frente no alfabeto.
+
+-Execute o programa
+-aparecera para inserir o texto que deseja criptografar
+
+entao ele dara o texto criptografado e o hash resultante.
