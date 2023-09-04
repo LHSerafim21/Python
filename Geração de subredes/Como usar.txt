@@ -1,0 +1,11 @@
+Nome: Luiz Henrique Serafim
+
+O programa foi desenvolvido em Python, entao é necessario o compilador 
+python para rodar o programa.
+
+Ao executar o programa:
+
+-Coloque o endereço de rede, ex: "20.20.20.5"
+- Digite o numero desejado de sub-redes, ex: "2"
+
+Entao o programa dara as informacoes: ID de REDE, Endereço de Rede, Broadcast e Máscara de Rede
