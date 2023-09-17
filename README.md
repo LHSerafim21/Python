@@ -15,6 +15,18 @@
 <div>
     <h3>Lista de projetos no repositorio:</h3>
     <table>
-        -
+        - Algoritmo RSA
+    </table>
+    <table>
+        - Algoritmo de Dijkstra
+    </table>
+    <table>
+        - Conexão socket
+    </table>
+    <table>
+        - Criptografar Texto
+    </table>
+    <table>
+        - Geração de subredes
     </table>
 </div>
